@@ -40,6 +40,16 @@ A premium, responsive furniture, small appliances and home essentials showroom w
 
 ### [🚀 CLICK HERE TO VIEW THE LIVE WEBSITE](https://goodwill-store.vercel.app/)
 
+**Individual website pages:**
+
+- [Shop All](https://goodwill-store.vercel.app/shop.html)
+- [Furniture](https://goodwill-store.vercel.app/furniture.html)
+- [Appliances](https://goodwill-store.vercel.app/appliances.html)
+- [Collections](https://goodwill-store.vercel.app/collections.html)
+- [About Us](https://goodwill-store.vercel.app/about.html)
+- [Contact](https://goodwill-store.vercel.app/contact.html)
+- [Product Detail Example](https://goodwill-store.vercel.app/product.html?id=modern-comfort-sofa)
+
 **Direct links:**
 
 - **Homepage:** https://goodwill-store.vercel.app/
