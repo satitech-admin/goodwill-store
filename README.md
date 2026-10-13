@@ -7,12 +7,12 @@
 
 A premium, responsive furniture, small appliances and home essentials showroom website with an Emerald Luxe aesthetic.
 
-[![OPEN LIVE WEBSITE](https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-146B50?style=for-the-badge&logo=vercel&logoColor=white)](https://goodwill-store.vercel.app/)
+[![OPEN LIVE WEBSITE](https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-146B50?style=for-the-badge&logo=vercel&logoColor=white)](https://satitech-admin.github.io/goodwill-store/)
 
-[![ABOUT US](https://img.shields.io/badge/ABOUT%20US-D0A56C?style=for-the-badge&logoColor=white)](https://goodwill-store.vercel.app/about.html)
+[![ABOUT US](https://img.shields.io/badge/ABOUT%20US-D0A56C?style=for-the-badge&logoColor=white)](https://satitech-admin.github.io/goodwill-store/about.html)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goodwill_departmental_store/)
 
-**Live preview:** https://goodwill-store.vercel.app/
+**Live preview:** https://satitech-admin.github.io/goodwill-store/
 
 </div>
 
@@ -28,7 +28,7 @@ A premium, responsive furniture, small appliances and home essentials showroom w
 | Furniture & appliances | Category grids and illustrative product cards |
 | Product discovery | Search, category filters and quick-view modal |
 | Motion | Animated marquee, scroll reveals, up/down scroll controls |
-| About Us | Dedicated responsive [About Us page](https://goodwill-store.vercel.app/about.html) |
+| About Us | Dedicated responsive [About Us page](https://satitech-admin.github.io/goodwill-store/about.html) |
 | Instagram | Official account link |
 | WhatsApp | Icon and enquiry entry point; **direct chat requires verified business phone number** |
 | Enquiries | Copy-to-message workflow to contact the store through Instagram |
@@ -38,22 +38,22 @@ A premium, responsive furniture, small appliances and home essentials showroom w
 
 ## Live website
 
-### [🚀 CLICK HERE TO VIEW THE LIVE WEBSITE](https://goodwill-store.vercel.app/)
+### [🚀 CLICK HERE TO VIEW THE LIVE WEBSITE](https://satitech-admin.github.io/goodwill-store/)
 
 **Individual website pages:**
 
-- [Shop All](https://goodwill-store.vercel.app/shop.html)
-- [Furniture](https://goodwill-store.vercel.app/furniture.html)
-- [Appliances](https://goodwill-store.vercel.app/appliances.html)
-- [Collections](https://goodwill-store.vercel.app/collections.html)
-- [About Us](https://goodwill-store.vercel.app/about.html)
-- [Contact](https://goodwill-store.vercel.app/contact.html)
-- [Product Detail Example](https://goodwill-store.vercel.app/product.html?id=modern-comfort-sofa)
+- [Shop All](https://satitech-admin.github.io/goodwill-store/shop.html)
+- [Furniture](https://satitech-admin.github.io/goodwill-store/furniture.html)
+- [Appliances](https://satitech-admin.github.io/goodwill-store/appliances.html)
+- [Collections](https://satitech-admin.github.io/goodwill-store/collections.html)
+- [About Us](https://satitech-admin.github.io/goodwill-store/about.html)
+- [Contact](https://satitech-admin.github.io/goodwill-store/contact.html)
+- [Product Detail Example](https://satitech-admin.github.io/goodwill-store/product.html?id=modern-comfort-sofa)
 
 **Direct links:**
 
-- **Homepage:** https://goodwill-store.vercel.app/
-- **About Us:** https://goodwill-store.vercel.app/about.html
+- **Homepage:** https://satitech-admin.github.io/goodwill-store/
+- **About Us:** https://satitech-admin.github.io/goodwill-store/about.html
 - **Official Instagram:** https://www.instagram.com/goodwill_departmental_store/
 
 ## Design palette
@@ -74,7 +74,7 @@ goodwill-store/
 └── README.md        # Project documentation and live-preview links
 ```
 
-This is currently a lightweight static HTML/CSS/JavaScript implementation hosted on Vercel.
+This is currently a lightweight static HTML/CSS/JavaScript implementation hosted on GitHub Pages.
 
 ## Next steps for production
 
@@ -88,6 +88,6 @@ Provide the store's verified WhatsApp Business number, official Facebook page, a
 
 *Furniture • Small Appliances • Home Essentials*
 
-[Visit Website](https://goodwill-store.vercel.app/) · [About](https://goodwill-store.vercel.app/about.html) · [Instagram](https://www.instagram.com/goodwill_departmental_store/)
+[Visit Website](https://satitech-admin.github.io/goodwill-store/) · [About](https://satitech-admin.github.io/goodwill-store/about.html) · [Instagram](https://www.instagram.com/goodwill_departmental_store/)
 
 </div>
